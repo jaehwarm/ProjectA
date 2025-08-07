@@ -44,7 +44,7 @@ MessagePopup.cs
 : 확인 / 예-아니오 메시지 출력용 팝업 UI
 
 TitleView.cs  
-: 타이틀 화면 구성, 버튼 바인딩, 언어/그래픽 전환 처리
+: 타이틀 화면 구성 UI
 
 SaveSlotView.cs  
 : 세이브 슬롯 UI 및 저장 상태 표시
